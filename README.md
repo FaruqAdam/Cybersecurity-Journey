@@ -1,8 +1,9 @@
 # Cybersecurity-Journey
 Here I want to document my journey in the field of Cybersecurity as I go on to achieve my goal of becoming an Ethical Hacker.
 
-### Thing I will achieve with this repo
+### My Goals
 
 - Fully Document my journey and processes.
-- Understand how to use Github and learn to contribute opensource projects.
+- Understand how to use GitHub and learn to contribute to open-source projects.
+- A way to contribute to lnew learners
 
