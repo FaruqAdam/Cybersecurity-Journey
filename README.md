@@ -4,9 +4,10 @@ Here I want to document my journey in the field of Cybersecurity as I go on to a
 ### My Goals
 
 - Fully Document my journey and processes.
+- - Document new Knowledge.
 - Understand how to use GitHub and learn to contribute to open-source projects.
 - A way to contribute to new learners.
-- Document new Knowledge.
+
 
 ## Introduction
 
