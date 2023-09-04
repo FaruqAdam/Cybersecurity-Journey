@@ -14,7 +14,7 @@ Adam Umar Faruq is my name and I am a graduate of Computer Science. My journey i
 
 I got admitted to study Computer Science at the Polytechnic, and that was my starting point. Over the years, I have dabbled into so many aspects of tech that I sometimes consider myself a generalist but that is not the case. To mention a few:
 
--Software Engineering. 
+- Software Engineering. 
 - UI/UX Design
 - Physical Networking
 - A couple of programming languages including Java, Javascript and Python.
